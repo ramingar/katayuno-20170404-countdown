@@ -1,8 +1,8 @@
 {
-  "name": "katayuno-20170314",
-  "version": "1.4.0",
+  "name": "katayuno-20170404",
+  "version": "1.0.0",
   "main": "web/index.html",
-  "description": "Katayuno día 14 de marzo de 2017",
+  "description": "Katayuno día 04 de abril de 2017",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
